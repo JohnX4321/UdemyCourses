@@ -1,3 +1,9 @@
+/*
+ * Coding Exercise: Subsets
+Question:
+
+Power Set - Given an integer array of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order.
+ */
 var subsets = function(nums) {
     //Write code here
     let res=[];
