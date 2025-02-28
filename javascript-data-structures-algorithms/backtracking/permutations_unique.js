@@ -1,3 +1,9 @@
+/*
+ * Coding Exercise: Permutations 2
+Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order.
+
+
+ */
 var permuteUnique = function(nums) {
     //Write code here
     let res=[];
